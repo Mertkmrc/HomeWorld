@@ -1,4 +1,4 @@
-Text Based Game
+Text Based Game with Deep Reinforcement Learning Application.
 
 HomeWorld
 
